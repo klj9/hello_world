@@ -1,3 +1,6 @@
+# Temporary Word files
+~$*.doc*
+
 # History files
 .Rhistory
 .Rapp.history
